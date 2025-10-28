@@ -1,4 +1,4 @@
-# CSD 380 Advanced Java Programming
+# CSD 380 DevOps
 
 ## Contributors
 - Instructor: Joseph Issa
